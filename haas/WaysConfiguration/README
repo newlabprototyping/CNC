@@ -10,6 +10,13 @@ Our SoftJaws are uploaded here as a seperate file should you wish or want to mac
 ##
 The vises are configured as LEFT and RIGHT vises respectively.
 ##
-The BOXES on either side of the bed are representations of where the travel ends in X for the bed/table. (i.e. the tool's center can go to the center of the extrusion but no further.)
+The BOXES on either side of the bed are representations of where the travel ends in X and Y for the bed/table. 
+(i.e. the tool's center can go to the center of the extrusion but no further.)
+These extrusions are clearly labeled
+X+ Travel End
+X- Travel End 
+Y+ travel End
+Y- Travel End
+##
 
 
