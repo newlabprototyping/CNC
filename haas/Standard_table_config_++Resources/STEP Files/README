@@ -1,0 +1,4 @@
+This folder contains a STEP File for how NewLab's Haas VMC is configured typically.
+Please download this file and use it to confirm any fixturing and/or fit you need.
+##
+The set-up is not modeled with a tight tolerance but it is accurate.
