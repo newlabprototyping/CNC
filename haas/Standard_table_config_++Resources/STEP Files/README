@@ -1,4 +1,14 @@
-This folder contains a STEP File for how NewLab's Haas VMC is configured typically.
+### SET UP CONFIG FILE ###
+This folder contains a STEP File for how NewLab's Haas VMC is configured typically. 
+It is titled "Haas_Vise_ToolProbe_Set-Up"
 Please download this file and use it to confirm any fixturing and/or fit you need.
-##
+*
 The set-up is not modeled with a tight tolerance but it is accurate.
+
+### SOFT JAW ###
+This folder also contains two separate files 
+One titled "Quick-Change Soft Jaws.step" which is just the modeled soft jaw
+*
+The other is titled "Quick-Change Soft Jaws.f3d"  which contains the 
+set-ups and toolpaths Newlab Staff uses to machine these.
+
