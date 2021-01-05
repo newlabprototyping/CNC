@@ -1,0 +1,12 @@
+slot,description,serialno,tool,generic,geometry,flutes,leadang,diameter,stickout,cutLength,noseRad,vendor,product,idNo,insNo,sfm,ipt,chipload,useMfgSFM,mfgSFM,useMfgIPT,mfgIPT,xcomp,zcomp,xgeom,zgeom,shankSize,field1,field2,field3,field4,coating,toolmaterial,toolFamily,units
+10,3/8in 120* Spot Drill,,HSS Spot Drill,false,Normal,2,90,0.375,1.25,1,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,0.375,,,,,Uncoated,HSS,Generic, 
+11,1/16in 4Fl EM,,Carbide Endmill,false,Normal,4,90,0.0625,0.375,1,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,0.0625,,,,,Uncoated,Carbide,PTS Tools, 
+12,1/8in 4Fl EM,,Carbide Endmill,false,Normal,4,90,0.125,0.875,1,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,0.125,,,,,Uncoated,Carbide,PTS Tools, 
+13,3/16in 4Fl EM,,Carbide Endmill,false,Normal,4,90,0.1875,0.9,1,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,0.1875,,,,,Uncoated,Carbide,PTS Tools, 
+14,1/4in 4Fl EM,,Carbide Endmill,false,Normal,4,90,0.25,0.95,1,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,0.25,,,,,Uncoated,Carbide,PTS Tools, 
+15,5/16in 4Fl EM,,Carbide Endmill,false,Normal,4,90,0.3125,1.3125,1,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,0.3125,,,,,Uncoated,Carbide,PTS Tools, 
+16,3/8in 4Fl EM,,Carbide Endmill,false,Normal,4,90,0.375,1.375,1,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,0.375,,,,,Uncoated,Carbide,PTS Tools, 
+17,1/2in 4Fl EM,,Carbide Endmill,false,Normal,4,90,0.5,1.375,1,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,0.5,,,,,Uncoated,Carbide,PTS Tools, 
+18,3/4in 4Fl EM,,Carbide Endmill,false,Normal,4,90,0.75,1.9,1,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,0.75,,,,,Uncoated,Carbide,PTS Tools, 
+19,2in 4Fl Face Mill,,Indexable End or Face Mill,false,Normal,4,45,2,1.8775,1,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,2,,,,,Uncoated,Carbide,Generic, 
+20,1/4in 4Fl Chamfer Bit,,Carbide Endmill,false,Normal,4,45,0.25,0.75,0.2,0,,,,,1.0, ,1.0,false,0,false,0,0,0,0,0,0.25,,,,,Uncoated,Carbide,Generic, 
