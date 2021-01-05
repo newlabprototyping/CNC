@@ -1,1 +1,13 @@
-Decribe function
+These tool libraries are for use on Newlab's Shopbot CNC Router.
+These speeds and feeds are general and not specific. 
+Please select from the applicable material to ensure accurate settings for your job.
+Available materials are listed in the name of the download-able files.
+--
+If your cuts, toolpaths, or set-up is specific, we recommend using these speeds and feeds as
+"starter" settings. You should fine tune these (Gwizard is our go-to for tool settings) to ensure 
+your part(s) are machined accurately and safely.
+--
+Your toolpaths will require specific configuration such as step-over and step-down, ramps, tabs etc.
+If you have questions for how your file is configured, please be sure to reach out to a member of the
+prototyping staff for support.
+--
